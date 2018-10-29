@@ -14,3 +14,4 @@ https://github.com/stankin/inet-2018/invitations
 | Касаткин Даниил Игоревич | -  | РКТ тим | [Страница](https://github.com/MajorLabrador) | [Проект](-) | - | - |
 | Распопов Максим Тимофеевич | -  | РКТ тим | [Страница](https://github.com/Maxim-Raspopov) | [Проект](-) | - | - |
 | Танашев Эльдар Хасанович | -  | crash team | [Страница](https://github.com/Adyga07) | [Проект](-) | - | - |
+| Рубцов Андрей Александрович | -  | Животные | [Страница](https://lokvest.github.io/index.html) | [Проект](-) | - | - |
